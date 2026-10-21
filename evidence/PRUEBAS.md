@@ -7,6 +7,7 @@ Fecha: 21 de octubre de 2026. Proyecto ejecutado e instalado en el emulador Andr
 | Verificación | Resultado | Evidencia |
 | --- | --- | --- |
 | Compilar APK y APK de pruebas | Aprobado | `build-verification.log` |
+| Run desde Android Studio sobre Small_Phone | Instalación y ejecución correctas | `08-android-studio.jpg` |
 | Android Lint | Sin errores; advertencias de compatibilidad, recursos de texto e icono | `lint-results-debug.html` |
 | Pruebas instrumentadas de lógica | 8 de 8 aprobadas en el emulador | `instrumentation.txt` |
 | Mapa OpenStreetMap visible | Aprobado | `01-inicio.png` |
@@ -69,3 +70,5 @@ Para iniciar `Small_Phone` en este equipo se desactivó Vulkan y se seleccionó 
 ![Validación del radio](05-radio-invalido.png)
 
 ![Radio guardado tras reiniciar](06-preferencias-persistentes.png)
+
+![Ejecución desde Android Studio](08-android-studio.jpg)

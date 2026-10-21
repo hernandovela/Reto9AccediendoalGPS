@@ -8,3 +8,4 @@ build-verification.log
 !evidence/build-verification.log
 emulator-start.log
 scripts/probe_services.py
+gradle/gradle-daemon-jvm.properties
