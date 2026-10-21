@@ -1,0 +1,7 @@
+PASS | Se solicita permiso de ubicación en tiempo de ejecución
+PASS | GPS simulado de Bogotá recibido
+FAIL | Consulta real Overpass devuelve nombres
+FAIL | Filtro hospitales consulta lugares reales
+PASS | Radio inválido mantiene abierto el diálogo
+PASS | Radio 1.5 km persiste al reiniciar
+FAIL | Búsqueda por coordenadas

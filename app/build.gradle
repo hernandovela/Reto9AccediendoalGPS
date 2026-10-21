@@ -1,0 +1,16 @@
+plugins { id 'com.android.application' }
+android {
+    namespace 'co.edu.ucc.reto9'
+    compileSdk 36
+    defaultConfig {
+        applicationId 'co.edu.ucc.reto9'
+        minSdk 26
+        targetSdk 36
+        versionCode 1
+        versionName '1.0'
+        testInstrumentationRunner 'android.test.InstrumentationTestRunner'
+    }
+    useLibrary 'android.test.runner'
+    useLibrary 'android.test.base'
+}
+dependencies { implementation 'org.osmdroid:osmdroid-android:6.1.20' }
