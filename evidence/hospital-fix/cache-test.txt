@@ -1,0 +1,3 @@
+PASS | Sin red se conservan los hospitales de la misma búsqueda
+PASS | Se identifica la fecha de los datos guardados
+PASS | Origen y radio de 20 km conservados

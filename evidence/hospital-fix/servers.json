@@ -1,0 +1,24 @@
+[
+  {
+    "server": "main",
+    "http": "200",
+    "seconds": 18.96,
+    "error": "",
+    "count": 178,
+    "remark": null
+  },
+  {
+    "server": "coffee",
+    "http": "000",
+    "seconds": 55.04,
+    "error": "curl: (28) Operation timed out after 55010 milliseconds with 0 bytes received\n"
+  },
+  {
+    "server": "vk",
+    "http": "200",
+    "seconds": 20.36,
+    "error": "",
+    "count": 178,
+    "remark": null
+  }
+]

@@ -2,6 +2,8 @@
 
 Aplicación Android nativa en Java para consultar hospitales y lugares turísticos alrededor de una ubicación. Utiliza OpenStreetMap con osmdroid, Overpass para los puntos de interés y Nominatim para resolver direcciones. No requiere una clave de Google Maps.
 
+**Versión 1.1:** búsqueda hospitalaria corregida y comprobada en el emulador: 160 puntos hospitalarios dentro de 20 km del origen de prueba. Consulta [las pruebas actuales y las capturas](evidence/hospital-fix/PRUEBAS.md).
+
 ## Funcionalidades
 
 - Ubicación GPS con permisos de Android en tiempo de ejecución; admite permiso aproximado.
@@ -11,7 +13,11 @@ Aplicación Android nativa en Java para consultar hospitales y lugares turístic
 - Radio entre 0.1 y 20 km guardado en `SharedPreferences` y conservado al cerrar la app.
 - Cálculo de distancia Haversine y exclusión de centros de lugares fuera del radio.
 - Mensajes para permiso denegado, GPS desactivado, falta de señal, errores de conexión y resultados vacíos.
-- Segundo servidor Overpass cuando falla el primero. Los resultados de búsquedas antiguas no reemplazan una consulta más reciente.
+- Consultas POST por área, tres servidores y espera del cliente superior al límite de ejecución del servidor.
+- Hospitales por etiquetas `amenity=hospital` y `healthcare=hospital`, con nombres alternativos y exclusión de veterinarias.
+- Cancelación de búsquedas reemplazadas y rechazo de respuestas parciales; una búsqueda antigua no reemplaza la actual.
+- Últimos resultados de la misma búsqueda guardados durante siete días, con fecha y aviso cuando no se pueden actualizar.
+- El mapa ajusta el zoom al radio y distingue hospitales, turismo y origen.
 
 La vista inicial muestra Bogotá como referencia; no se presenta como ubicación obtenida por GPS. Pulsa **Mi GPS** o define un origen para consultar lugares. Toca un nombre de la lista para centrar y abrir el marcador.
 
@@ -38,11 +44,11 @@ Las pruebas funcionales requieren un emulador con ADB, conexión a Internet y la
 
 ## Evidencia
 
-Consulta [el informe de pruebas](evidence/PRUEBAS.md), las capturas y los registros en `evidence/`. El APK se genera en `app/build/outputs/apk/debug/app-debug.apk`.
+Consulta [el informe actual de la versión 1.1](evidence/hospital-fix/PRUEBAS.md). El informe anterior en `evidence/PRUEBAS.md` se conserva como registro histórico de la versión 1.0. El APK actualizado está en `dist/Reto9AccediendoalGPS-debug.apk` y se genera en `app/build/outputs/apk/debug/app-debug.apk`.
 
 ## Servicios externos y límites
 
-El mapa, las direcciones y los lugares necesitan Internet y dependen de servicios públicos. Si Overpass está saturado o no responde, la app muestra el error y permite reintentar con **Buscar** conservando el origen GPS. No sustituye resultados con datos inventados. La cobertura y los nombres dependen de lo registrado en OpenStreetMap; para polígonos se usa el centro informado por Overpass.
+El mapa, las direcciones y las consultas nuevas necesitan Internet y dependen de servicios públicos. Si Overpass está saturado o no responde, la app distingue el error de un resultado vacío y permite reintentar con **Buscar** conservando el origen. Si existe una respuesta guardada para exactamente el mismo origen, radio y filtro, la muestra indicando su fecha. No sustituye resultados con datos inventados. La cobertura y los nombres dependen de OpenStreetMap; para polígonos se usa el centro informado por Overpass. El conteo corresponde a puntos/objetos registrados en OSM, no a un censo oficial de instituciones independientes.
 
 La app envía el origen y radio a Overpass y el texto de dirección a Nominatim al buscar. Las teselas de mapa se almacenan en la caché local de osmdroid. No hay servidor propio ni claves privadas en el proyecto.
 

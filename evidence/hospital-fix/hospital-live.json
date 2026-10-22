@@ -1,0 +1,969 @@
+{
+  "origin_lat": 4.73257,
+  "origin_lon": -74.05723,
+  "radius_km": 20,
+  "count": 160,
+  "status": "EXPLORA\nRETO 9  \/  Lugares cerca de ti\nOrigen: 4.73257, -74.05723\n4.73257,-74.05723\nBuscar\nMi GPS\nRadio\nHospitales\nRadio: 20.0 km\n© OpenStreetMap contributors · datos: Overpass\n160 hospitales encontrados · hasta 20.0 km · toca un nombre\nClinicentro Cedro Bolivar  ·  1.38 km\nInstituto Colombiano del Sistema Nervioso Clínica Monserrat  ·  2.12 km\nMaterno Infantil Colsubsidio  ·  2.37 km\nFundacion Neumologica  ·  2.69 km\nFundación Cardio Infantil  ·  2.77 km\nClínica Reina Sofia Colsánitas  ·  2.89 km\nCancha Microfutbol Altablanca  ·  3.13 km\nCami Suba  ·  3.22 km\nIdime  ·  3.27 km\nUnidad Medico Quirurgica Santa Barbara  ·  3.45 km\nClínica Oncológica Colsubsidio  ·  3.48 km\nHospital sin nombre registrado en OSM  ·  3.48 km\nHospital sin nombre registrado en OSM  ·  3.50 km\nCentro Medico y Odontologico  - Cifuentes  ·  3.53 km\nClínica la Carolina  ·  3.61 km\nUPA San Cristobal  ·  3.66 km\nClínica El Bosque  ·  3.73 km\nHospital Simón Bolívar  ·  3.94 km\nInstituto de Ortopedia y Fractura  ·  3.95 km\nElectrofisiatría SAS  ·  4.09 km\nNueva Eps  ·  4.18 km\nFundación Clínica Shaio  ·  4.21 km\nClínica Vascular Navarra  ·  4.31 km\nClínica Odontologica Jasban  ·  4.37 km\nHospital Veterianrio  ·  4.45 km\nHospital de Suba  ·  4.48 km\nHospital sin nombre registrado en OSM  ·  4.48 km\nUnidad Medica Cecimin  ·  4.49 km\nLaFam  ·  4.54 km\nHospital sin nombre registrado en OSM  ·  4.56 km\nClínica Fray Bartolomé de las Casas  ·  4.57 km\nClínica de Hipertensión Arterial y Cuidados Coronarios - CHACC  ·  4.66 km\nCentro de Atención Básica Quirigua  ·  4.78 km\nSeguros SURA Colombia  ·  4.81 km\nFundación Santa Fe de Bogotá  ·  4.82 km\nFundación Santafé de Bogotá  ·  4.93 km\nClínica de la Sabana  ·  4.98 km\nHospital Juan N. Corpas  ·  5.16 km\nCentro de Salud  ·  5.26 km\nClinica Barraquer  ·  5.29 km\nEdificio Dalí - Clínica Estetica  ·  5.33 km\nHospital Cafam  ·  5.34 km\nUPA Rionegro  ·  5.37 km\nClub de Leones Antonio Nariño  ·  5.62 km\nSanitas CLL 95  ·  5.80 km\nHospital Engativá  ·  6.28 km\nCentro Médico Ciudadela Colsubsidio  ·  6.52 km\nClínica Del Country  ·  7.06 km\nConsultorios Country  ·  7.11 km\nHospital Ingativa Bellavista  ·  7.12 km\nDrogas Popular  ·  7.14 km\nPuesto de Salud San fernando  ·  7.14 km\nHospital de Chapinero  ·  7.48 km\nHospital sin nombre registrado en OSM  ·  7.49 km\nSamu 68  ·  7.57 km\nTotalfarma  ·  7.67 km\nCruz Roja Colombiana - Seccional Cundinamarca Y Bogota  ·  7.69 km\nCentro Médico Colsubsidio  ·  7.81 km\nHospital Infantil Universitario San José  ·  7.91 km\nInstituto de Ortopedía Infantil Roosevelt - Sede Propace  ·  8.05 km\nHospital Universitario de Barrios Unidos  ·  8.08 km\nUPA Álamos  ·  8.14 km\nEl Bosque Centro Odontologico  ·  8.23 km\nHospital de Chapinero-Empresa Soc. Del Estado  ·  8.82 km\nClínica Infantil Colsubsidio  ·  8.95 km\nkekerkre  ·  8.96 km\nCentro Médico Colsubsidio Calle 63  ·  9.26 km\nFresenius Medical Care  ·  9.33 km\nHospital de Engativá Emaús  ·  9.42 km\nClínica Federman  ·  9.58 km\nClínica Nuestra Señora del Rosario  ·  9.96 km\nCentro de Salud  ·  10.09 km\nHospital Universiario Nacional  ·  10.23 km\nClínica del Niño  ·  10.32 km\nCentro Odontologíco Fuerza Aérea  ·  10.37 km\nHospital sin nombre registrado en OSM  ·  10.47 km\nCentro Médico Plan Premium Sanitas  ·  10.54 km\nClínica Marly  ·  10.65 km\nCentro de Especialistas Av. Séptima  ·  10.70 km\nUnidad Radiológica Panoramax  ·  10.78 km\nUnidad Médica  ·  10.81 km\nClínica Colombia  ·  10.86 km\nClínica Palermo  ·  10.88 km\nHospital Militar Central  ·  10.91 km\nSalud Total  ·  11.01 km\nClínica Medicentro  ·  11.43 km\nHospital Fontibón  ·  11.51 km\nHospital Universitario San Ignacio  ·  11.55 km\nClínica San Ignacio  ·  11.57 km\nHospital Universitario San Ignacio  ·  11.61 km\nSaludVida EPS  ·  11.65 km\nHospital del Oriente 1  ·  11.66 km\nClínica la magdalena  ·  11.79 km\nAliansalud  ·  11.87 km\nHospital sin nombre registrado en OSM  ·  11.90 km\nInstituto Laboratorio Clinico  ·  11.90 km\nMedicos Sin Fronteras  ·  11.93 km\nHospital de Fontibón  ·  11.96 km\nHospital Fontibón UPA 48 San Pablo  ·  12.04 km\nProsalud Ocupacional  ·  12.14 km\nHospital sin nombre registrado en OSM  ·  12.15 km\nMéderi Hospital Universitario Mayor  ·  12.47 km\nUnidad de Urgencias EPS Sanitas  ·  12.51 km\nCAMI La Perseverancia  ·  12.56 km\nCompensar EPS Fontibón  ·  12.67 km\nClínica Nuestra Señora de la Paz  ·  12.98 km\nHCO-CAMI Samper Mendoza  ·  13.13 km\nHCO - Unidad Pediatrica  ·  13.14 km\nUnidad de Servicios de Salud Patio Bonito El Tintal  ·  13.55 km\nHospital San Antonio  ·  13.98 km\nClínica Universidad de La Sabana  ·  14.06 km\nClínica San Francisco de Asis  ·  14.07 km\nPuesto de la Cruz Roja  ·  14.10 km\nCentro de Atención Prioritaria en Salud - CAMI Trinidad  ·  14.12 km\nDrogueria Cafam  ·  14.16 km\nSalud Total  ·  14.24 km\nClínica Centenario  ·  14.40 km\nClínica del Occidente  ·  14.41 km\nCentro Médico Uniandes  ·  14.64 km\nHospital de San José  ·  14.73 km\nSan Juan de Dios  ·  14.81 km\nInstituto de Ortopedia Infantil Roosevelt  ·  14.93 km\nHospital Pediátrico la Misericordia HOMI  ·  15.83 km\nUnidad de servicios de Salud Patio Bonito  ·  15.91 km\nHospital Jorge Eliecer Gaitán  ·  15.96 km\nHospital sin nombre registrado en OSM  ·  15.97 km\nClinca Medical  ·  16.02 km\nUPA Lourdes  ·  16.04 km\nCentro Dermatológico Federico Lleras Acosta  ·  16.10 km\nHospital Santa Clara  ·  16.15 km\nPuesto Médico \"El Hato\"  ·  16.15 km\nHospital sin nombre registrado en OSM  ·  16.19 km\nCentro de Salud Famisanar Cafam Kennedy  ·  16.19 km\nHospital Universitario San Juan de Dios  ·  16.26 km\nInstituto Materno Infantil Concepción Villaveces  ·  16.31 km\nInstituto Nacional de Cancerología  ·  16.36 km\nHospital Universitario De La Samaritana  ·  16.42 km\nClínica De Cancer De Bogotà  ·  16.53 km\nHospital de Kennedy  ·  16.77 km\nHospital sin nombre registrado en OSM  ·  16.90 km\nOdontología  ·  16.99 km\nCentro Médico EPS Sanitas  ·  17.02 km\nCompensar Unidad de Servicios Kennedy  ·  17.16 km\nHospital Nuestra Señora De Las Mercedes Funza  ·  17.40 km\nCAMI Gran Britalia  ·  17.67 km\nHospital Universitario Clínica San Rafael  ·  17.74 km\nCAP San Cristóbal  ·  17.95 km\nHospital Santa Rosa de Tenjo  ·  18.08 km\nHospital Pablo VI de Bosa  ·  18.27 km\nHospital San Blas Nivel II E.S.E.  ·  18.35 km\nHospital El Carmen  ·  18.52 km\nCentros de Atención Prioritaria en Salud Cabañas  ·  18.57 km\nFundación Hospital San Carlos  ·  18.78 km\nHospital Maria Auxiliadora  ·  19.22 km\nAngo Fisioterapia  ·  19.23 km\nCentro de Atención las Lomas  ·  19.39 km\nHospital El Tunal  ·  19.57 km\nHospital de Bosa  ·  19.76 km\nCentros de Atención Prioritaria en Salud Bosa Centro  ·  19.76 km\nHospital Bosa Il Nivel  ·  19.95 km\n",
+  "hospitals": [
+    {
+      "name": "Clinicentro Cedro Bolivar",
+      "distance_km": 1.3815251603916787,
+      "lat": 4.7340795,
+      "lon": -74.0448555
+    },
+    {
+      "name": "Instituto Colombiano del Sistema Nervioso Clínica Monserrat",
+      "distance_km": 2.116208156135236,
+      "lat": 4.7167267,
+      "lon": -74.0466495
+    },
+    {
+      "name": "Materno Infantil Colsubsidio",
+      "distance_km": 2.374727158380136,
+      "lat": 4.742043,
+      "lon": -74.0380239
+    },
+    {
+      "name": "Fundacion Neumologica",
+      "distance_km": 2.6878981924530363,
+      "lat": 4.7408029,
+      "lon": -74.0344245
+    },
+    {
+      "name": "Fundación Cardio Infantil",
+      "distance_km": 2.7690028179365527,
+      "lat": 4.7418435,
+      "lon": -74.0340397
+    },
+    {
+      "name": "Clínica Reina Sofia Colsánitas",
+      "distance_km": 2.8905602725223103,
+      "lat": 4.7070462,
+      "lon": -74.0522841
+    },
+    {
+      "name": "Cancha Microfutbol Altablanca",
+      "distance_km": 3.1314950909921277,
+      "lat": 4.7342116,
+      "lon": -74.0290195
+    },
+    {
+      "name": "Cami Suba",
+      "distance_km": 3.2194351042043756,
+      "lat": 4.7434986,
+      "lon": -74.0841332
+    },
+    {
+      "name": "Idime",
+      "distance_km": 3.2724835811534003,
+      "lat": 4.7033368,
+      "lon": -74.0538197
+    },
+    {
+      "name": "Unidad Medico Quirurgica Santa Barbara",
+      "distance_km": 3.45412110981955,
+      "lat": 4.704057,
+      "lon": -74.044861
+    },
+    {
+      "name": "Clínica Oncológica Colsubsidio",
+      "distance_km": 3.4755059693665196,
+      "lat": 4.7040539,
+      "lon": -74.0443894
+    },
+    {
+      "name": "Hospital sin nombre registrado en OSM",
+      "distance_km": 3.4828693240439126,
+      "lat": 4.7039645,
+      "lon": -74.0444272
+    },
+    {
+      "name": "Hospital sin nombre registrado en OSM",
+      "distance_km": 3.4988312482845174,
+      "lat": 4.7039146,
+      "lon": -74.0441874
+    },
+    {
+      "name": "Centro Medico y Odontologico  - Cifuentes",
+      "distance_km": 3.531264722253781,
+      "lat": 4.7398661,
+      "lon": -74.0882438
+    },
+    {
+      "name": "Clínica la Carolina",
+      "distance_km": 3.605301959036274,
+      "lat": 4.7044138,
+      "lon": -74.0410976
+    },
+    {
+      "name": "UPA San Cristobal",
+      "distance_km": 3.6590268232480456,
+      "lat": 4.7399405,
+      "lon": -74.0250498
+    },
+    {
+      "name": "Clínica El Bosque",
+      "distance_km": 3.7313521500024533,
+      "lat": 4.7118162,
+      "lon": -74.0307709
+    },
+    {
+      "name": "Hospital Simón Bolívar",
+      "distance_km": 3.9375639150307826,
+      "lat": 4.7421942,
+      "lon": -74.0230348
+    },
+    {
+      "name": "Instituto de Ortopedia y Fractura",
+      "distance_km": 3.9531781200031526,
+      "lat": 4.6976859,
+      "lon": -74.0503492
+    },
+    {
+      "name": "Electrofisiatría SAS",
+      "distance_km": 4.092752120850695,
+      "lat": 4.6986477,
+      "lon": -74.0715624
+    },
+    {
+      "name": "Nueva Eps",
+      "distance_km": 4.176802771125948,
+      "lat": 4.7444966,
+      "lon": -74.0929713
+    },
+    {
+      "name": "Fundación Clínica Shaio",
+      "distance_km": 4.207897634800815,
+      "lat": 4.6980792,
+      "lon": -74.0728533
+    },
+    {
+      "name": "Clínica Vascular Navarra",
+      "distance_km": 4.308709075580423,
+      "lat": 4.6938583,
+      "lon": -74.0555222
+    },
+    {
+      "name": "Clínica Odontologica Jasban",
+      "distance_km": 4.3685028922221525,
+      "lat": 4.6933194,
+      "lon": -74.0555373
+    },
+    {
+      "name": "Hospital Veterianrio",
+      "distance_km": 4.446415667673886,
+      "lat": 4.6932049,
+      "lon": -74.0642817
+    },
+    {
+      "name": "Hospital de Suba",
+      "distance_km": 4.477713423649103,
+      "lat": 4.753412,
+      "lon": -74.0918042
+    },
+    {
+      "name": "Hospital sin nombre registrado en OSM",
+      "distance_km": 4.480753030759968,
+      "lat": 4.6922749,
+      "lon": -74.0569148
+    },
+    {
+      "name": "Unidad Medica Cecimin",
+      "distance_km": 4.49289833268954,
+      "lat": 4.6921938,
+      "lon": -74.055685
+    },
+    {
+      "name": "LaFam",
+      "distance_km": 4.536560432981768,
+      "lat": 4.692218,
+      "lon": -74.0511921
+    },
+    {
+      "name": "Hospital sin nombre registrado en OSM",
+      "distance_km": 4.5636876132372395,
+      "lat": 4.692895,
+      "lon": -74.0677706
+    },
+    {
+      "name": "Clínica Fray Bartolomé de las Casas",
+      "distance_km": 4.568966157590455,
+      "lat": 4.6928209,
+      "lon": -74.0676753
+    },
+    {
+      "name": "Clínica de Hipertensión Arterial y Cuidados Coronarios - CHACC",
+      "distance_km": 4.664661977609784,
+      "lat": 4.6906198,
+      "lon": -74.0571618
+    },
+    {
+      "name": "Centro de Atención Básica Quirigua",
+      "distance_km": 4.783871322025839,
+      "lat": 4.7131646,
+      "lon": -74.0957581
+    },
+    {
+      "name": "Seguros SURA Colombia",
+      "distance_km": 4.813195597619806,
+      "lat": 4.6969483,
+      "lon": -74.0325543
+    },
+    {
+      "name": "Fundación Santa Fe de Bogotá",
+      "distance_km": 4.82455280217711,
+      "lat": 4.6965808,
+      "lon": -74.0329132
+    },
+    {
+      "name": "Fundación Santafé de Bogotá",
+      "distance_km": 4.932935417139019,
+      "lat": 4.6952135,
+      "lon": -74.0332206
+    },
+    {
+      "name": "Clínica de la Sabana",
+      "distance_km": 4.97826864028988,
+      "lat": 4.688106,
+      "lon": -74.0519818
+    },
+    {
+      "name": "Hospital Juan N. Corpas",
+      "distance_km": 5.15660723862906,
+      "lat": 4.7618982,
+      "lon": -74.0932764
+    },
+    {
+      "name": "Centro de Salud",
+      "distance_km": 5.263840726937485,
+      "lat": 4.6982129,
+      "lon": -74.0899067
+    },
+    {
+      "name": "Clinica Barraquer",
+      "distance_km": 5.287350998489271,
+      "lat": 4.6853534,
+      "lon": -74.0515881
+    },
+    {
+      "name": "Edificio Dalí - Clínica Estetica",
+      "distance_km": 5.327585950406329,
+      "lat": 4.6846581,
+      "lon": -74.0571037
+    },
+    {
+      "name": "Hospital Cafam",
+      "distance_km": 5.342554318460558,
+      "lat": 4.7477437,
+      "lon": -74.1029742
+    },
+    {
+      "name": "UPA Rionegro",
+      "distance_km": 5.373264621478007,
+      "lat": 4.6847924,
+      "lon": -74.0644933
+    },
+    {
+      "name": "Club de Leones Antonio Nariño",
+      "distance_km": 5.61613299778902,
+      "lat": 4.7117661,
+      "lon": -74.1034102
+    },
+    {
+      "name": "Sanitas CLL 95",
+      "distance_km": 5.798476095208104,
+      "lat": 4.6811406,
+      "lon": -74.0485803
+    },
+    {
+      "name": "Hospital Engativá",
+      "distance_km": 6.280580737431627,
+      "lat": 4.7109602,
+      "lon": -74.1095929
+    },
+    {
+      "name": "Centro Médico Ciudadela Colsubsidio",
+      "distance_km": 6.524732833927879,
+      "lat": 4.7206393,
+      "lon": -74.1148786
+    },
+    {
+      "name": "Clínica Del Country",
+      "distance_km": 7.0593751305259635,
+      "lat": 4.6690859,
+      "lon": -74.056688
+    },
+    {
+      "name": "Consultorios Country",
+      "distance_km": 7.112830330903378,
+      "lat": 4.6686029,
+      "lon": -74.0572938
+    },
+    {
+      "name": "Hospital Ingativa Bellavista",
+      "distance_km": 7.120926459015482,
+      "lat": 4.6778947,
+      "lon": -74.0906853
+    },
+    {
+      "name": "Drogas Popular",
+      "distance_km": 7.135021202956345,
+      "lat": 4.6721415,
+      "lon": -74.0788844
+    },
+    {
+      "name": "Puesto de Salud San fernando",
+      "distance_km": 7.139772688893385,
+      "lat": 4.6724874,
+      "lon": -74.0799545
+    },
+    {
+      "name": "Hospital de Chapinero",
+      "distance_km": 7.477714881784993,
+      "lat": 4.6655942,
+      "lon": -74.0633017
+    },
+    {
+      "name": "Hospital sin nombre registrado en OSM",
+      "distance_km": 7.489736024244301,
+      "lat": 4.6732092,
+      "lon": -74.0891687
+    },
+    {
+      "name": "Samu 68",
+      "distance_km": 7.567989648574088,
+      "lat": 4.6725765,
+      "lon": -74.089479
+    },
+    {
+      "name": "Totalfarma",
+      "distance_km": 7.666241441259081,
+      "lat": 4.6646389,
+      "lon": -74.0690447
+    },
+    {
+      "name": "Cruz Roja Colombiana - Seccional Cundinamarca Y Bogota",
+      "distance_km": 7.686204665160809,
+      "lat": 4.663999,
+      "lon": -74.0659824
+    },
+    {
+      "name": "Centro Médico Colsubsidio",
+      "distance_km": 7.805518576596198,
+      "lat": 4.7011962,
+      "lon": -74.1202387
+    },
+    {
+      "name": "Hospital Infantil Universitario San José",
+      "distance_km": 7.906318873156685,
+      "lat": 4.6648488,
+      "lon": -74.0789709
+    },
+    {
+      "name": "Instituto de Ortopedía Infantil Roosevelt - Sede Propace",
+      "distance_km": 8.048087283542337,
+      "lat": 4.6641739,
+      "lon": -74.080986
+    },
+    {
+      "name": "Hospital Universitario de Barrios Unidos",
+      "distance_km": 8.076571121915428,
+      "lat": 4.6635905,
+      "lon": -74.0800567
+    },
+    {
+      "name": "UPA Álamos",
+      "distance_km": 8.141528931482048,
+      "lat": 4.6950574,
+      "lon": -74.1203222
+    },
+    {
+      "name": "El Bosque Centro Odontologico",
+      "distance_km": 8.233722075387336,
+      "lat": 4.669737,
+      "lon": -74.096542
+    },
+    {
+      "name": "Hospital de Chapinero-Empresa Soc. Del Estado",
+      "distance_km": 8.821053513107847,
+      "lat": 4.6536855,
+      "lon": -74.0656493
+    },
+    {
+      "name": "Clínica Infantil Colsubsidio",
+      "distance_km": 8.946317054506766,
+      "lat": 4.6522013,
+      "lon": -74.0609907
+    },
+    {
+      "name": "kekerkre",
+      "distance_km": 8.957005454047325,
+      "lat": 4.6521807,
+      "lon": -74.0520929
+    },
+    {
+      "name": "Centro Médico Colsubsidio Calle 63",
+      "distance_km": 9.261068051520043,
+      "lat": 4.6506277,
+      "lon": -74.0721841
+    },
+    {
+      "name": "Fresenius Medical Care",
+      "distance_km": 9.328423263205492,
+      "lat": 4.682227,
+      "lon": -74.1245654
+    },
+    {
+      "name": "Hospital de Engativá Emaús",
+      "distance_km": 9.423962186448192,
+      "lat": 4.7152756,
+      "lon": -74.1404811
+    },
+    {
+      "name": "Clínica Federman",
+      "distance_km": 9.581146755142862,
+      "lat": 4.6498504,
+      "lon": -74.0814339
+    },
+    {
+      "name": "Clínica Nuestra Señora del Rosario",
+      "distance_km": 9.962375703179374,
+      "lat": 4.7154135,
+      "lon": -73.9689946
+    },
+    {
+      "name": "Centro de Salud",
+      "distance_km": 10.086614876735164,
+      "lat": 4.8127796,
+      "lon": -74.0997437
+    },
+    {
+      "name": "Hospital Universiario Nacional",
+      "distance_km": 10.226573143613939,
+      "lat": 4.6489229,
+      "lon": -74.0955891
+    },
+    {
+      "name": "Clínica del Niño",
+      "distance_km": 10.323844836860365,
+      "lat": 4.6476447,
+      "lon": -74.0948765
+    },
+    {
+      "name": "Centro Odontologíco Fuerza Aérea",
+      "distance_km": 10.369039699325517,
+      "lat": 4.6413289,
+      "lon": -74.0765505
+    },
+    {
+      "name": "Hospital sin nombre registrado en OSM",
+      "distance_km": 10.470534258660917,
+      "lat": 4.6474598,
+      "lon": -74.0976524
+    },
+    {
+      "name": "Centro Médico Plan Premium Sanitas",
+      "distance_km": 10.542783419927725,
+      "lat": 4.6393469,
+      "lon": -74.0745806
+    },
+    {
+      "name": "Clínica Marly",
+      "distance_km": 10.650905126133788,
+      "lat": 4.6370936,
+      "lon": -74.0649479
+    },
+    {
+      "name": "Centro de Especialistas Av. Séptima",
+      "distance_km": 10.70494274555534,
+      "lat": 4.6365282,
+      "lon": -74.063902
+    },
+    {
+      "name": "Unidad Radiológica Panoramax",
+      "distance_km": 10.776952613822598,
+      "lat": 4.6359534,
+      "lon": -74.06491
+    },
+    {
+      "name": "Unidad Médica",
+      "distance_km": 10.811015201256572,
+      "lat": 4.6356548,
+      "lon": -74.0650196
+    },
+    {
+      "name": "Clínica Colombia",
+      "distance_km": 10.861515804697754,
+      "lat": 4.6480661,
+      "lon": -74.1063889
+    },
+    {
+      "name": "Clínica Palermo",
+      "distance_km": 10.875548757901873,
+      "lat": 4.6361823,
+      "lon": -74.0738817
+    },
+    {
+      "name": "Hospital Militar Central",
+      "distance_km": 10.906929603824711,
+      "lat": 4.6345844,
+      "lon": -74.0617311
+    },
+    {
+      "name": "Salud Total",
+      "distance_km": 11.005475841379408,
+      "lat": 4.6359714,
+      "lon": -74.0788582
+    },
+    {
+      "name": "Clínica Medicentro",
+      "distance_km": 11.427866600571566,
+      "lat": 4.6743492,
+      "lon": -74.1422077
+    },
+    {
+      "name": "Hospital Fontibón",
+      "distance_km": 11.506227129579056,
+      "lat": 4.6728771,
+      "lon": -74.1420402
+    },
+    {
+      "name": "Hospital Universitario San Ignacio",
+      "distance_km": 11.549072366172213,
+      "lat": 4.6291753,
+      "lon": -74.0671165
+    },
+    {
+      "name": "Clínica San Ignacio",
+      "distance_km": 11.5733367826284,
+      "lat": 4.6287176,
+      "lon": -74.0641532
+    },
+    {
+      "name": "Hospital Universitario San Ignacio",
+      "distance_km": 11.606749696641256,
+      "lat": 4.6284177,
+      "lon": -74.0641721
+    },
+    {
+      "name": "SaludVida EPS",
+      "distance_km": 11.654516239073033,
+      "lat": 4.628237,
+      "lon": -74.0672666
+    },
+    {
+      "name": "Hospital del Oriente 1",
+      "distance_km": 11.661669782666221,
+      "lat": 4.6277141,
+      "lon": -74.0592783
+    },
+    {
+      "name": "Clínica la magdalena",
+      "distance_km": 11.789921652213009,
+      "lat": 4.6272113,
+      "lon": -74.0691748
+    },
+    {
+      "name": "Aliansalud",
+      "distance_km": 11.865414666183572,
+      "lat": 4.6262663,
+      "lon": -74.0665422
+    },
+    {
+      "name": "Hospital sin nombre registrado en OSM",
+      "distance_km": 11.898041722934998,
+      "lat": 4.6263631,
+      "lon": -74.0702896
+    },
+    {
+      "name": "Instituto Laboratorio Clinico",
+      "distance_km": 11.90220491804863,
+      "lat": 4.625976,
+      "lon": -74.0670123
+    },
+    {
+      "name": "Medicos Sin Fronteras",
+      "distance_km": 11.926702879948065,
+      "lat": 4.6264463,
+      "lon": -74.0728484
+    },
+    {
+      "name": "Hospital de Fontibón",
+      "distance_km": 11.955158804315042,
+      "lat": 4.6717466,
+      "lon": -74.1461862
+    },
+    {
+      "name": "Hospital Fontibón UPA 48 San Pablo",
+      "distance_km": 12.04337787484301,
+      "lat": 4.6888555,
+      "lon": -74.1566607
+    },
+    {
+      "name": "Prosalud Ocupacional",
+      "distance_km": 12.144495115813632,
+      "lat": 4.6242063,
+      "lon": -74.0709087
+    },
+    {
+      "name": "Hospital sin nombre registrado en OSM",
+      "distance_km": 12.145498832193535,
+      "lat": 4.6241964,
+      "lon": -74.0709023
+    },
+    {
+      "name": "Méderi Hospital Universitario Mayor",
+      "distance_km": 12.470202250276117,
+      "lat": 4.6233213,
+      "lon": -74.0826462
+    },
+    {
+      "name": "Unidad de Urgencias EPS Sanitas",
+      "distance_km": 12.510109473772241,
+      "lat": 4.6344954,
+      "lon": -74.1125415
+    },
+    {
+      "name": "CAMI La Perseverancia",
+      "distance_km": 12.560185895232117,
+      "lat": 4.6199162,
+      "lon": -74.0655189
+    },
+    {
+      "name": "Compensar EPS Fontibón",
+      "distance_km": 12.670371815624375,
+      "lat": 4.670537,
+      "lon": -74.1531345
+    },
+    {
+      "name": "Clínica Nuestra Señora de la Paz",
+      "distance_km": 12.975930267753096,
+      "lat": 4.6383077,
+      "lon": -74.126253
+    },
+    {
+      "name": "HCO-CAMI Samper Mendoza",
+      "distance_km": 13.129512370059167,
+      "lat": 4.6169241,
+      "lon": -74.0811435
+    },
+    {
+      "name": "HCO - Unidad Pediatrica",
+      "distance_km": 13.138953779756331,
+      "lat": 4.6160742,
+      "lon": -74.0770651
+    },
+    {
+      "name": "Unidad de Servicios de Salud Patio Bonito El Tintal",
+      "distance_km": 13.554953897651547,
+      "lat": 4.6516696,
+      "lon": -74.1487251
+    },
+    {
+      "name": "Hospital San Antonio",
+      "distance_km": 13.975670664033053,
+      "lat": 4.8582132,
+      "lon": -74.0605233
+    },
+    {
+      "name": "Clínica Universidad de La Sabana",
+      "distance_km": 14.061639324258907,
+      "lat": 4.8562152,
+      "lon": -74.0306078
+    },
+    {
+      "name": "Clínica San Francisco de Asis",
+      "distance_km": 14.073397493801556,
+      "lat": 4.6081771,
+      "lon": -74.0806549
+    },
+    {
+      "name": "Puesto de la Cruz Roja",
+      "distance_km": 14.100155823111892,
+      "lat": 4.605784,
+      "lon": -74.0549947
+    },
+    {
+      "name": "Centro de Atención Prioritaria en Salud - CAMI Trinidad",
+      "distance_km": 14.120519238170786,
+      "lat": 4.6223941,
+      "lon": -74.1205869
+    },
+    {
+      "name": "Drogueria Cafam",
+      "distance_km": 14.155391718262237,
+      "lat": 4.6060582,
+      "lon": -74.0714421
+    },
+    {
+      "name": "Salud Total",
+      "distance_km": 14.241781936187158,
+      "lat": 4.6323136,
+      "lon": -74.1372023
+    },
+    {
+      "name": "Clínica Centenario",
+      "distance_km": 14.404922051115014,
+      "lat": 4.6056685,
+      "lon": -74.0833605
+    },
+    {
+      "name": "Clínica del Occidente",
+      "distance_km": 14.41490051456276,
+      "lat": 4.6292974,
+      "lon": -74.1358523
+    },
+    {
+      "name": "Centro Médico Uniandes",
+      "distance_km": 14.638322454224513,
+      "lat": 4.6012791,
+      "lon": -74.0669169
+    },
+    {
+      "name": "Hospital de San José",
+      "distance_km": 14.73125156129805,
+      "lat": 4.6033177,
+      "lon": -74.0863973
+    },
+    {
+      "name": "San Juan de Dios",
+      "distance_km": 14.814254817908372,
+      "lat": 4.8644558,
+      "lon": -74.0383028
+    },
+    {
+      "name": "Instituto de Ortopedia Infantil Roosevelt",
+      "distance_km": 14.926568107593521,
+      "lat": 4.5985006,
+      "lon": -74.0639715
+    },
+    {
+      "name": "Hospital Pediátrico la Misericordia HOMI",
+      "distance_km": 15.834841458559723,
+      "lat": 4.5936358,
+      "lon": -74.0885867
+    },
+    {
+      "name": "Unidad de servicios de Salud Patio Bonito",
+      "distance_km": 15.911365747105606,
+      "lat": 4.6343082,
+      "lon": -74.1616004
+    },
+    {
+      "name": "Hospital Jorge Eliecer Gaitán",
+      "distance_km": 15.961898206571318,
+      "lat": 4.5895932,
+      "lon": -74.0700723
+    },
+    {
+      "name": "Hospital sin nombre registrado en OSM",
+      "distance_km": 15.967163990316598,
+      "lat": 4.5927759,
+      "lon": -74.0901629
+    },
+    {
+      "name": "Clinca Medical",
+      "distance_km": 16.018374019009926,
+      "lat": 4.6219025,
+      "lon": -74.1497606
+    },
+    {
+      "name": "UPA Lourdes",
+      "distance_km": 16.038655092888092,
+      "lat": 4.589292,
+      "lon": -74.0739066
+    },
+    {
+      "name": "Centro Dermatológico Federico Lleras Acosta",
+      "distance_km": 16.099464207290087,
+      "lat": 4.5913278,
+      "lon": -74.0891721
+    },
+    {
+      "name": "Hospital Santa Clara",
+      "distance_km": 16.14702820408691,
+      "lat": 4.5916716,
+      "lon": -74.0924836
+    },
+    {
+      "name": "Puesto Médico \"El Hato\"",
+      "distance_km": 16.149104682393578,
+      "lat": 4.7069714,
+      "lon": -74.2006748
+    },
+    {
+      "name": "Hospital sin nombre registrado en OSM",
+      "distance_km": 16.187547501637372,
+      "lat": 4.5913053,
+      "lon": -74.0925208
+    },
+    {
+      "name": "Centro de Salud Famisanar Cafam Kennedy",
+      "distance_km": 16.19243847317625,
+      "lat": 4.6237093,
+      "lon": -74.154275
+    },
+    {
+      "name": "Hospital Universitario San Juan de Dios",
+      "distance_km": 16.263599924537417,
+      "lat": 4.5894746,
+      "lon": -74.0875999
+    },
+    {
+      "name": "Instituto Materno Infantil Concepción Villaveces",
+      "distance_km": 16.31256130001468,
+      "lat": 4.5884963,
+      "lon": -74.0849677
+    },
+    {
+      "name": "Instituto Nacional de Cancerología",
+      "distance_km": 16.35799294175258,
+      "lat": 4.5879997,
+      "lon": -74.0845417
+    },
+    {
+      "name": "Hospital Universitario De La Samaritana",
+      "distance_km": 16.422201739845864,
+      "lat": 4.5872679,
+      "lon": -74.0837583
+    },
+    {
+      "name": "Clínica De Cancer De Bogotà",
+      "distance_km": 16.528258022724813,
+      "lat": 4.5924102,
+      "lon": -74.1068885
+    },
+    {
+      "name": "Hospital de Kennedy",
+      "distance_km": 16.76701584220953,
+      "lat": 4.6162674,
+      "lon": -74.1535247
+    },
+    {
+      "name": "Hospital sin nombre registrado en OSM",
+      "distance_km": 16.90205827718527,
+      "lat": 4.6073906,
+      "lon": -74.143745
+    },
+    {
+      "name": "Odontología",
+      "distance_km": 16.993671944753007,
+      "lat": 4.5994773,
+      "lon": -74.132597
+    },
+    {
+      "name": "Centro Médico EPS Sanitas",
+      "distance_km": 17.015777588955203,
+      "lat": 4.6189715,
+      "lon": -74.1601026
+    },
+    {
+      "name": "Compensar Unidad de Servicios Kennedy",
+      "distance_km": 17.160367799450405,
+      "lat": 4.6157604,
+      "lon": -74.1584241
+    },
+    {
+      "name": "Hospital Nuestra Señora De Las Mercedes Funza",
+      "distance_km": 17.39970164455366,
+      "lat": 4.7121567,
+      "lon": -74.2129003
+    },
+    {
+      "name": "CAMI Gran Britalia",
+      "distance_km": 17.67262267928224,
+      "lat": 4.6220388,
+      "lon": -74.1718163
+    },
+    {
+      "name": "Hospital Universitario Clínica San Rafael",
+      "distance_km": 17.742302631526744,
+      "lat": 4.5766742,
+      "lon": -74.0913416
+    },
+    {
+      "name": "CAP San Cristóbal",
+      "distance_km": 17.94953683452238,
+      "lat": 4.5752854,
+      "lon": -74.0936711
+    },
+    {
+      "name": "Hospital Santa Rosa de Tenjo",
+      "distance_km": 18.078474884330113,
+      "lat": 4.8701704,
+      "lon": -74.1441346
+    },
+    {
+      "name": "Hospital Pablo VI de Bosa",
+      "distance_km": 18.270533481867062,
+      "lat": 4.6250158,
+      "lon": -74.1818632
+    },
+    {
+      "name": "Hospital San Blas Nivel II E.S.E.",
+      "distance_km": 18.34869117199303,
+      "lat": 4.56963,
+      "lon": -74.0833933
+    },
+    {
+      "name": "Hospital El Carmen",
+      "distance_km": 18.524288975536823,
+      "lat": 4.5835619,
+      "lon": -74.1319733
+    },
+    {
+      "name": "Centros de Atención Prioritaria en Salud Cabañas",
+      "distance_km": 18.56593163884356,
+      "lat": 4.630924,
+      "lon": -74.1901353
+    },
+    {
+      "name": "Fundación Hospital San Carlos",
+      "distance_km": 18.77839115846336,
+      "lat": 4.571112,
+      "lon": -74.1069018
+    },
+    {
+      "name": "Hospital Maria Auxiliadora",
+      "distance_km": 19.219506609445947,
+      "lat": 4.7033189,
+      "lon": -74.228161
+    },
+    {
+      "name": "Ango Fisioterapia",
+      "distance_km": 19.227987574980933,
+      "lat": 4.7113635,
+      "lon": -74.2294304
+    },
+    {
+      "name": "Centro de Atención las Lomas",
+      "distance_km": 19.393478815111095,
+      "lat": 4.5655778,
+      "lon": -74.1077179
+    },
+    {
+      "name": "Hospital El Tunal",
+      "distance_km": 19.566465431717166,
+      "lat": 4.5714697,
+      "lon": -74.1282485
+    },
+    {
+      "name": "Hospital de Bosa",
+      "distance_km": 19.76059576072578,
+      "lat": 4.6351637,
+      "lon": -74.206366
+    },
+    {
+      "name": "Centros de Atención Prioritaria en Salud Bosa Centro",
+      "distance_km": 19.761324517584132,
+      "lat": 4.6093687,
+      "lon": -74.1857388
+    },
+    {
+      "name": "Hospital Bosa Il Nivel",
+      "distance_km": 19.945228355044932,
+      "lat": 4.6068517,
+      "lon": -74.1855977
+    }
+  ]
+}

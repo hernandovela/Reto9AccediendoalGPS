@@ -1,5 +1,7 @@
 # Informe de pruebas · Reto 9
 
+**Registro histórico de la versión 1.0.** La incidencia de búsqueda fue corregida en la versión 1.1. Consulta [el informe actual con hospitales obtenidos en vivo](hospital-fix/PRUEBAS.md).
+
 Fecha: 21 de octubre de 2026. Proyecto ejecutado e instalado en el emulador Android `Small_Phone` del SDK local. Las coordenadas de Bogotá utilizadas en las pruebas son simuladas, no una ubicación personal del usuario.
 
 ## Resultado

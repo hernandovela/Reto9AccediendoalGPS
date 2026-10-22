@@ -20,4 +20,21 @@ public class PoiParserTest extends android.test.AndroidTestCase {
         try {PoiParser.parse("{\"remark\":\"timeout\",\"elements\":[]}",0,0,1);fail("Debe informar el error del servidor");}
         catch(org.json.JSONException expected) {assertEquals("timeout",expected.getMessage());}
     }
+    public void testHospitalWithoutNameIsNotDropped() throws Exception {
+        String json="{\"elements\":[{\"lat\":0,\"lon\":0,\"tags\":{\"healthcare\":\"hospital\"}}]}";
+        java.util.ArrayList<MainActivity.Poi> result=PoiParser.parse(json,0,0,1);
+        assertEquals(1,result.size());
+        assertTrue(result.get(0).hospital);
+        assertEquals("Hospital sin nombre registrado en OSM",result.get(0).name);
+    }
+    public void testVeterinaryMisclassifiedAsHospitalIsExcluded() throws Exception {
+        String json="{\"elements\":[{\"lat\":0,\"lon\":0,\"tags\":{\"amenity\":\"hospital\",\"name\":\"Clínica Veterinaria de prueba\"}}]}";
+        assertTrue(PoiParser.parse(json,0,0,1).isEmpty());
+    }
+    public void testAlternativeNameAndDuplicateOsmObject() throws Exception {
+        String element="{\"type\":\"way\",\"id\":12,\"center\":{\"lat\":0,\"lon\":0},\"tags\":{\"amenity\":\"hospital\",\"operator\":\"Hospital de prueba\"}}";
+        java.util.ArrayList<MainActivity.Poi> result=PoiParser.parse("{\"elements\":["+element+","+element+"]}",0,0,1);
+        assertEquals(1,result.size());
+        assertEquals("Hospital de prueba",result.get(0).name);
+    }
 }
